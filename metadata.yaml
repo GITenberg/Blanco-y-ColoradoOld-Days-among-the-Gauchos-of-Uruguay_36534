@@ -1,0 +1,25 @@
+_repo: Blanco-y-ColoradoOld-Days-among-the-Gauchos-of-Uruguay_36534
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tetley, William C.
+    gutenberg_agent_id: '38329'
+    url: http://www.gutenberg.org/2009/agents/38329
+description: ''
+gutenberg_issued: '2011-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uruguay -- Description and travel'
+- !lcsh 'Uruguay -- Social life and customs'
+- !lcc 'F2701'
+title: 'Blanco y Colorado: Old Days among the Gauchos of Uruguay'
+url: http://www.gutenberg.org/ebooks/36534
